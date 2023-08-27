@@ -3,19 +3,19 @@ repository : https://github.com/gnanendraprasadp/config
 
 ## Endpoints
 Bigdata<br/>
-http://localhost:8080/bigdata/default
-http://localhost:8080/bigdata/uat
-http://localhost:8080/bigdata/preprod
-http://localhost:8080/bigdata/prod
+http://localhost:8080/bigdata/default<br/>
+http://localhost:8080/bigdata/uat<br/>
+http://localhost:8080/bigdata/preprod<br/>
+http://localhost:8080/bigdata/prod<br/>
 
 Compute<br/>
-http://localhost:8080/compute/default
-http://localhost:8080/compute/uat
-http://localhost:8080/compute/preprod
-http://localhost:8080/compute/prod
+http://localhost:8080/compute/default<br/>
+http://localhost:8080/compute/uat<br/>
+http://localhost:8080/compute/preprod<br/>
+http://localhost:8080/compute/prod<br/>
 
 Storage<br/>
-http://localhost:8080/storage/default
-http://localhost:8080/storage/uat
-http://localhost:8080/storage/preprod
-http://localhost:8080/storage/prod
+http://localhost:8080/storage/default<br/>
+http://localhost:8080/storage/uat<br/>
+http://localhost:8080/storage/preprod<br/>
+http://localhost:8080/storage/prod<br/>
