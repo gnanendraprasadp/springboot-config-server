@@ -1,7 +1,14 @@
-# Spring Boot Config Server
+# Spring Cloud Config
+
+## Config Server
+This project is built to showcase the function of Spring Cloud Config.
+
+This project uses Git Backend config.<br/>
 repository : https://github.com/gnanendraprasadp/config
 
 ## Endpoints
+Below are the endpoints for different project in different profile.<br/>
+
 Bigdata<br/>
 http://localhost:8080/bigdata/default<br/>
 http://localhost:8080/bigdata/uat<br/>
